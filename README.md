@@ -16,15 +16,15 @@ This repository provides tutorials for quantitative modeling using a variety app
      git clone https://github.com/compmem/RunDEMC
      pip install -e ./RunDEMC
      cd ..
-     ```
+```
 5) Start a juypter notebook server: `jupyter notebook`
 6) Open up the notebooks in the notebooks directory
 
 
-##Contributors (in alphabetical order):  
+## Contributors (in alphabetical order):  
  
-Adam Fenton, Computational Memory Lab, University of Virginia. 
+Adam Fenton, Computational Memory Lab, University of Virginia  
 Dylan Nielson, Section on Clinical and Computational Psychiatry, National Institutes of Mental Health Intramural Research Program  
 Dipta Saha, Section on Clinical and Computational Psychiatry, National Institutes of Mental Health Intramural Research Program  
-Per Sederberg, Computational Memory Lab, University of Virginia. 
+Per Sederberg, Computational Memory Lab, University of Virginia  
 Charles Zheng, Machine Learning Team, National Institutes of Mental Health Intramural Research Program  
