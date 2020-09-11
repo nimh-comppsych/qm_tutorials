@@ -1,5 +1,5 @@
 # Tutorials for quantitative modeling
-This repository provides tutorials for quantitative modeling using a variety approaches. In addition to the tutorials, you can review slides from the lecture that accompanied the initial presentation of these tutorials in the presentations folder.
+This repository provides tutorials for quantitative modeling using a variety approaches. In addition to the tutorials, you can review slides from the lecture that accompanied the initial presentation of these tutorials in the presentations folder. You can view a recording of the presentation [here](https://youtu.be/nnz4muhaXPU).
 
 ## Setup Instructions
 1) [Install miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) if you don't already have conda
